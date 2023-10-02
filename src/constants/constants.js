@@ -1,0 +1,35 @@
+export const projects = [
+  {
+    title: 'Cholo Ghuri Bangladesh',
+    description: "This project is about a website for travel guide to visit around Bangladesh. Here we will collect different types of data about historical and tourism places in Bangladesh. This project is for easy and best way for people to visit and discover travel sites around whole Bangladesh.",
+    // image: '/images/1.png',
+    tags: ['MongoDB', 'CSS', 'React', 'NodeJS'],
+    source: 'https://github.com/tDipto/choloBD',
+    id: 0,
+  },
+  {
+    title: 'Fifa-world-cup-prediction-2026',
+    description:"The FIFA World Cup is the biggest and most prestigious tournament in the world of football. The tournament will feature a record 48 teams. In order to make a prediction, it is important to consider different factors and to analyze the strengths and weaknesses of teams.",
+    // image: '/images/2.png',
+    tags: ['ML', 'DL','NumPy','Pandas','Matplotlib'],
+    source: 'https://github.com/Raihan-004/Fifa-world-cup-prediction-2026',
+    id: 1,
+  },
+  {
+    title: 'CS Monitor',
+    description: "This project report details the development and implementation of a computer science based blog website. The site was designed to provide a platform for exploring the latest advancements in the field and to educate and inform both industry professionals and students.",
+      // image: '/images/3.jpg',
+    tags: ['React', 'CSS','MySQL','NodeJS'],
+    source: 'https://google.com',
+    // visit: 'https://google.com',
+    id: 2,
+  },
+  {
+    title: 'Sudoku Archery Quest',
+    description: "A fusion of two distinct yet captivating activities into computer graphics environment. Using OpenGL and GLUT libraries, this project establishes an interactive platform, inviting users dual pleasures of conquering archery challenges and mastering Sudoku puzzles.",
+    // image: '/images/4.jpg',
+    tags: ['Computer Graphics', 'OpenGL', 'C++'],
+    source: 'https://github.com/Raihan-004/Sudoku_Archery_',
+    id: 3,
+  },
+];

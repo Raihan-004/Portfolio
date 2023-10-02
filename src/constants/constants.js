@@ -20,7 +20,7 @@ export const projects = [
     description: "This project report details the development and implementation of a computer science based blog website. The site was designed to provide a platform for exploring the latest advancements in the field and to educate and inform both industry professionals and students.",
       // image: '/images/3.jpg',
     tags: ['React', 'CSS','MySQL','NodeJS'],
-    source: 'https://google.com',
+    source: 'https://github.com/Raihan-004/CS_Monitor',
     // visit: 'https://google.com',
     id: 2,
   },
